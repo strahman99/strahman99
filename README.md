@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @strahman99
-- 👀 I’m interested in python, bash, linux, powershell, clould
+- 👀 I’m interested in python, bash, linux, powershell, cloud
 - 🌱 I’m currently learning python, powershell, cloud
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
